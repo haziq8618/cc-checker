@@ -1,15 +1,5 @@
 <?php
 
-// DONT CHANGE THIS
-
-/*  ================[INFO]================
- *   AUTHOR  : ZLAXTERT
- *   SCRIPT  : CREDIT CARD CHECKER
- *   GITHUB  : https://github.com/ZLAXTERT
- *   IG      : https://instagram.com/zlaxtert
- *   VERSION : 1.1 (CLI)
- *  ======================================
- */
 
 //SETTING 
 
@@ -108,9 +98,7 @@ DATE : $date
 function banner(){
     $banner = "
       __________  _______ _____________ _________ 
-     / ___/ ___/ / ___/ // / __/ ___/ //_/ __/ _ \
-    / /__/ /__  / /__/ _  / _// /__/ ,< / _// , _/
-    \___/\___/  \___/_//_/___/\___/_/|_/___/_/|_| 
+   
 ------------------------------------------------------
   AUTHOR  : ZLAXTERT
   VERSION : 1.1
